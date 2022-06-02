@@ -1,6 +1,6 @@
 
 //Space-time Loop 1: Webcam Generative Dances
-//bottom-up wave
+//bottom-up 
 //Concept and programming by Marlon barrios Solano
 
 var video;
