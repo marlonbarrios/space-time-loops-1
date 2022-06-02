@@ -31,7 +31,7 @@ function draw() {
     counter++;
     if (counter == total) {
       counter = 0;
-      if (counter == 43) {
+      if (counter == 131) {
         counter = 0;
       }
     }
